@@ -28,5 +28,10 @@ h1 {
 img {
 	height: 200px;
 	width: 200px;
+	padding: 2px;
+	float: none;
+}
+
+.shop_photos {
 	text-align: center;
 }
