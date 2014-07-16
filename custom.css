@@ -41,4 +41,13 @@ img {
 }
 p {
     font-size: 18pt;
+
+}
+
+.map {
+    text-align: center;
+}
+
+#location_paragraph{
+    text-align: center;
 }
